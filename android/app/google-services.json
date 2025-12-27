@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "88871952660",
+    "firebase_url": "https://evalu2-2262a-default-rtdb.firebaseio.com",
+    "project_id": "evalu2-2262a",
+    "storage_bucket": "evalu2-2262a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:88871952660:android:44e04fbf29d263d60ba201",
+        "android_client_info": {
+          "package_name": "com.example.evalucion_2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_ts1QJ_GkY2rF63KfpMfIcvaS7zi32tQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
